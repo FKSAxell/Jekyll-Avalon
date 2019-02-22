@@ -1,10 +1,10 @@
-title: Your awesome title
-email: your-email@domain.com
-description: description
-baseurl: /Jekyll-Avalon
+title: Blog
+email: kevin.concha.regatto@outlook.com
+description: Comparacion de lenguajes de programacion para diferentes problemas de analisis de datos
+baseurl: /
 url: http://joshuaavalon.github.io
-twitter_username: joshuaavalon
-github_username:  joshuaavalon
+twitter_username: axellconcha
+github_username:  fksaxell
 
 sass:
   style: compressed
@@ -12,8 +12,8 @@ sass:
 paginate: 12
 paginate_path: "/:num/"
 
-author_img_s: /img/author_s.png
-author_img: /img/author.png
+author_img_s: /img/perfil.png
+author_img: /img/perfil.png
 
 navigation:
   - text: Home
