@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lorem Ipsum
+title:  hola Ipsum
 categories: 
     - Text
 tags: 
